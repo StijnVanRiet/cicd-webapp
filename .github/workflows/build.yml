@@ -34,5 +34,5 @@
               with:
                 file: ./Dockerfile
                 context: .
-                push: false
+                push: true
                 tags: stijnvr24/webapp:latest       
